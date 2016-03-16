@@ -1,0 +1,92 @@
+* {
+	/*border: 1px red solid;*/
+}
+
+body {
+	background-color: #FBE4B6;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
+
+header {
+	background-color: #fc6;
+	padding-top: 10px;
+	margin-top: 30px;
+	border-radius: 0%;
+	border: 2px white solid;
+	margin-bottom: 15px;
+}
+
+footer {
+	background-color: #BD6D00
+	
+}
+
+.container {
+	border-right: 1px brown solid;
+	border-left: 1px brown solid;
+	border-bottom: 1px brown solid;
+	background-color: white;
+	padding-bottom:  30px;
+}
+
+.images {
+	border-radius: 5%;
+}
+
+#logo {
+	padding-bottom: 10px;
+	padding-left: 50px;
+}
+
+#header_content {
+	text-align: center;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#verification_logos,
+#info-header {
+	padding-top: 10px;
+	padding-bottom: 25px;
+	text-align: center;
+}
+
+#info-header {
+	font-size: 25px;
+}
+
+a.link_to_payment {
+	color: #AD4A4A;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#footerLinks,
+#info_A,
+#info_B,
+#info_C {
+	text-align: center;
+}
+
+div a {
+	color: #fc6;
+}
+
+#trustKeeper {
+	float: left;
+}
+
+#puzzle {
+	float: left;
+	margin-right: 20px;
+	border: 1px lightgray solid;
+}
+
+#handshake {
+	float: right;
+	margin-left: 20px;
+	border: 1px lightgray solid;
+}
+
+

@@ -14,7 +14,10 @@ You may check out Court Solutions about page by clicking on the link below:
 
 http://codezero777.github.io/Court-Solutions-ABOUT-Website
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/gh-pages
 Here's comparison of before and after:
 
 
